@@ -13,4 +13,4 @@ App will remember settings you apply like selected folder and slideshow/speed. M
 
 Download link - https://github.com/rtxxx0001/GoonPhotoWidget/raw/main/GoonPhotoWidget_Build_24_12_2021.zip
 
-https://cdn.discordapp.com/attachments/868889541413580880/923754421538684979/GPW1.png
+![myimage-alt-tag](https://cdn.discordapp.com/attachments/868889541413580880/923754421538684979/GPW1.png)
