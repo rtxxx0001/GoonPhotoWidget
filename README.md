@@ -25,4 +25,4 @@ Controls
 -
 
 Desktop view
-![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW2.png)
+![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW3.png)
