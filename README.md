@@ -16,7 +16,9 @@ App will remember settings you apply like selected folder and slideshow/speed. M
 
 Download link - https://github.com/rtxxx0001/GoonPhotoWidget/raw/main/GoonPhotoWidget_Build_24_12_2021.zip
 
-Layout
+
+
+Controls
 ![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW1.png)
 
 Desktop view
