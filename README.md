@@ -17,8 +17,8 @@ Also:
 
 Download link - https://github.com/rtxxx0001/GoonPhotoWidget/raw/main/GoonPhotoWidget_Build_24_12_2021.zip
 
--
-
+&nbsp;
+&nbsp;
 Controls
 ![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW1.png)
 
