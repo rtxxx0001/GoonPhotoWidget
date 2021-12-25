@@ -19,7 +19,7 @@ Known problems:
 - When app loads, do not click another window or you get black background. Starts app quickly anyway
 - Only .jpg files at moment
 
-Download link - https://github.com/rtxxx0001/GoonPhotoWidget/releases/tag/Complete
+Download link - https://github.com/rtxxx0001/GoonPhotoWidget/releases/download/Complete/GoonPhotoWidget_Build_24_12_2021.zip
 
 |
 
