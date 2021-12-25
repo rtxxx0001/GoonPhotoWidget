@@ -3,12 +3,13 @@
 This app is simple & light and is made for displaying folder of photos on your desktop. 
 
 Functions:
-- Select Folder
+- Select Folder Button
 - Slideshow button 
 - Slideshow speed buttons (and -/+ shows when mouse on timer button)
 - Next Image button
 - Close button
 - Scale small & big with mouse wheel
+- Drag and Move photowindow with mouse
 
 Also:
 + Buttons highlights when mouse is on the photowindow;
