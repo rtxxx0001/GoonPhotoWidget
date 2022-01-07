@@ -29,9 +29,9 @@ Download link - https://github.com/rtxxx0001/GoonPhotoWidget/releases/tag/Comple
 |
 
 Controls
-![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW1.png)
+![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW5.png)
 
 |
 
 Desktop view
-![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW3.png)
+![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW4.png)
