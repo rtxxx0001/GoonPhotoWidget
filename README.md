@@ -2,7 +2,7 @@
 
 This app is simple & light and is made for displaying folder of photos on your desktop. 
 
-**Newest release includes .png support and monitor snap button to enabled/disable
+**Newest release includes .png support and monitor snap button to enable/disable photo window to stick to monitor
 **
 
 Functions:
