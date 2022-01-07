@@ -24,7 +24,7 @@ Also:
 Known problems:
 - When app loads, do not click another window or you get black background. Starts app quickly anyway
 
-Download link - https://github.com/rtxxx0001/GoonPhotoWidget/releases/tag/Complete7.1.2022
+## Download link - https://github.com/rtxxx0001/GoonPhotoWidget/releases/tag/Complete7.1.2022
 
 |
 
