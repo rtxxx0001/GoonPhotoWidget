@@ -6,6 +6,7 @@ This app is simple & light and is made for displaying folder of photos on your d
 **
 
 Functions:
+- Supports: .jpg and .png files
 - Select Folder Button
 - Slideshow button 
 - Slideshow speed buttons (and -/+ shows when mouse on timer button)
