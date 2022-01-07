@@ -3,7 +3,7 @@
 This app is simple & light and is made for displaying folder of photos on your desktop. 
 
 ### *Newest release includes .png support and monitor snap button to enable/disable photo window to stick to monitor
-*
+
 
 ### Functions:
 - Supports: .jpg and .png files
@@ -26,12 +26,12 @@ This app is simple & light and is made for displaying folder of photos on your d
 
 ### Download link - https://github.com/rtxxx0001/GoonPhotoWidget/releases/tag/Complete7.1.2022
 
-|
 
-Controls
+
+#### Controls
 ![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW5.png)
 
-|
 
-Desktop view
+
+#### Desktop view
 ![myimage-alt-tag](https://raw.githubusercontent.com/rtxxx0001/GoonPhotoWidget/main/GPW4.png)
